@@ -1,1 +1,1 @@
-# Demo-project
+# Demo practice project
